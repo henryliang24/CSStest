@@ -1,0 +1,49 @@
+
+table {
+
+  	font-family: arial, sans-serif;
+  	border-collapse: collapse;
+  	width: 100%;
+
+}
+td, th {
+
+	border: 1px solid #dddddd;
+	text-align: left
+    padding: 18px;
+
+}
+				
+
+tr:nth-child(even) {
+
+	background-color: #dddddd;
+
+}
+
+#p1{
+
+   color: #e81dd0;
+   width: 300px;
+   border: 2px dashed 	#FF1493;
+   padding: 10px 30px 20px 15px;
+
+}
+
+#p2{
+   font-family: 'Titan One', cursive;
+   color: #1dc6e8;
+   width: 300px;
+   border: 4px dotted #36f7a6;
+   padding: 25px 20px 25px 20px;
+
+}
+
+h1,li{
+
+	font-size: 30px;
+	color: black;
+	font-family: 'Noto Sans', sans-serif;
+	
+}
+
